@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-G-Wangondu
-- 👀 I’m interested in ... machine learning
-- 🌱 I’m currently learning ... python 
+- 👀 I’m interested in ... machine learning 
+- 🌱 I’m currently learning ... react js
 - 💞️ I’m looking to collaborate on ...any front-end project
 - 📫 How to reach me ...https://www.linkedin.com/in/alex-wang-ondu-208026268/
 - 😄 Pronouns: ...he/him
